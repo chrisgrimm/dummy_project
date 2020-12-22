@@ -1,0 +1,2 @@
+-e git+https://github.com/chrisgrimm/run_daemon.git@9a2f6a4b6d8f5d6ee628dfbf3ede1a08ea2a12ea#egg=crgrimm_scheduler
+numpy==1.19.4
